@@ -2,9 +2,11 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/plus-extra",
   "1.18.2": {
     "1.0.0": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3927694"
+    "1.0.1": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3949383"
+    "1.0.2": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3987985"
   },
   "promos": {
-    "1.18.2-latest": "1.0.0",
-    "1.18.2-recommended": "1.0.0"
+    "1.18.2-latest": "1.0.2",
+    "1.18.2-recommended": "1.0.2"
   }
 }
