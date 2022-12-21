@@ -1,9 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/plus-extra",
   "1.18.2": {
-    "1.0.0": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3927694"
-    "1.0.1": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3949383"
-    "1.0.2": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3987985"
+    "1.0.0": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3927694",
+    "1.0.1": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3949383",
+    "1.0.2": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/3987985",
+    "1.1.0": "https://www.curseforge.com/minecraft/mc-mods/plus-extra/files/4226188"
   },
   "promos": {
     "1.18.2-latest": "1.0.2",
